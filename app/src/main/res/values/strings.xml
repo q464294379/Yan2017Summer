@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Yan2017Summer</string>
+    <string name="title_activity_view_pager_activity">ViewPagerActivityActivity</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+    <string name="title_activity_view_pager_ativity">ViewPagerAtivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
 </resources>
